@@ -1,0 +1,15 @@
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\bin\Debug\net6.0\Examen1erParcial.exe
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\bin\Debug\net6.0\Examen1erParcial.deps.json
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\bin\Debug\net6.0\Examen1erParcial.runtimeconfig.json
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\bin\Debug\net6.0\Examen1erParcial.dll
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\bin\Debug\net6.0\ref\Examen1erParcial.dll
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\bin\Debug\net6.0\Examen1erParcial.pdb
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\obj\Debug\net6.0\Examen1erParcial.csproj.AssemblyReference.cache
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\obj\Debug\net6.0\Examen1erParcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\obj\Debug\net6.0\Examen1erParcial.AssemblyInfoInputs.cache
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\obj\Debug\net6.0\Examen1erParcial.AssemblyInfo.cs
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\obj\Debug\net6.0\Examen1erParcial.csproj.CoreCompileInputs.cache
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\obj\Debug\net6.0\Examen1erParcial.dll
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\obj\Debug\net6.0\ref\Examen1erParcial.dll
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\obj\Debug\net6.0\Examen1erParcial.pdb
+D:\IngSoftware\ProgramacionVisual\Tareas\Examen1erParcial\Examen1erParcial\obj\Debug\net6.0\Examen1erParcial.genruntimeconfig.cache
