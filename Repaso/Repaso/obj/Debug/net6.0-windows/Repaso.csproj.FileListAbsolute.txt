@@ -1,0 +1,17 @@
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\bin\Debug\net6.0-windows\Repaso.exe
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\bin\Debug\net6.0-windows\Repaso.deps.json
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\bin\Debug\net6.0-windows\Repaso.runtimeconfig.json
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\bin\Debug\net6.0-windows\Repaso.dll
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\bin\Debug\net6.0-windows\ref\Repaso.dll
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\bin\Debug\net6.0-windows\Repaso.pdb
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\obj\Debug\net6.0-windows\Repaso.csproj.AssemblyReference.cache
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\obj\Debug\net6.0-windows\Repaso.Form1.resources
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\obj\Debug\net6.0-windows\Repaso.csproj.GenerateResource.cache
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\obj\Debug\net6.0-windows\Repaso.GeneratedMSBuildEditorConfig.editorconfig
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\obj\Debug\net6.0-windows\Repaso.AssemblyInfoInputs.cache
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\obj\Debug\net6.0-windows\Repaso.AssemblyInfo.cs
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\obj\Debug\net6.0-windows\Repaso.csproj.CoreCompileInputs.cache
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\obj\Debug\net6.0-windows\Repaso.dll
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\obj\Debug\net6.0-windows\ref\Repaso.dll
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\obj\Debug\net6.0-windows\Repaso.pdb
+D:\IngSoftware\ProgramacionVisual\Tareas\Repaso\Repaso\obj\Debug\net6.0-windows\Repaso.genruntimeconfig.cache
